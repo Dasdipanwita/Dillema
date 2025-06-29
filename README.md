@@ -109,3 +109,25 @@ npm start
 ```
 
 The frontend development server will start and automatically open the application in your web browser at `http://localhost:3000`.
+
+## Ethical Frameworks Supported
+
+This simulator analyzes dilemmas from the perspective of three major ethical frameworks:
+
+### 1. Utilitarianism
+
+- **Core Idea**: The best action is the one that maximizes overall happiness and well-being for the greatest number of people.
+- **Focus**: Consequences. The morality of an action is judged solely by its outcome.
+- **Key Question**: "Which option will produce the most good and do the least harm?"
+
+### 2. Deontology
+
+- **Core Idea**: Certain actions are inherently right or wrong, regardless of their consequences. Morality is based on a set of rules, duties, and obligations.
+- **Focus**: Rules and Duties. Ethical decisions should be based on universal moral principles that apply to everyone.
+- **Key Question**: "Which option best respects the rights of all stakeholders and adheres to a universal moral rule?"
+
+### 3. Virtue Ethics
+
+- **Core Idea**: Morality stems from the character of the moral agent, rather than the actions themselves or their consequences.
+- **Focus**: Character and Virtues. It emphasizes developing virtues like honesty, courage, compassion, and justice.
+- **Key Question**: "Which option allows me to act as the sort of person I want to be?"
